@@ -18,7 +18,7 @@ worldcloud 1.3.1
 ***
 
 ## Project motivation
-AirBNB published the rental housing information about seattle, I interested in rent in different months and neighbourhoods, and using machine learning method to predict the rent. In order to expore the dataset, I came up with a few questions.
+AirBNB published the rental housing information [dataset](https://www.kaggle.com/airbnb/seattle/data) about seattle, I interested in rent in different months and neighbourhoods, and using machine learning method to predict the rent. In order to expore the dataset, I came up with a few questions.
 1. Which month is the peak tourist month?
 2. The comments about accommodation made by guests are positive or negative?
 3. The distribution of the rent of neighbourhood
