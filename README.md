@@ -1,13 +1,13 @@
 # seattle_AirBNB_analysis
 This is the basic analysis of the seattle dataset published by AirBNB
 ## Installaion
-python 2.7.6
-matplotlib 2.0.2
-pandas 0.17.1
-pillow 5.0.0
-scikit-learn 0.18.2
-seaborn 0.9.0
-worldcloud 1.3.1
+python 2.7.6 
+matplotlib 2.0.2 
+pandas 0.17.1 
+pillow 5.0.0 
+scikit-learn 0.18.2 
+seaborn 0.9.0 
+worldcloud 1.3.1 
 
 ***
 
