@@ -34,7 +34,7 @@ AirBNB published [the rental housing information dataset](https://www.kaggle.com
 
 ***
 ## Results
-the results can be found at the [blog](https://medium.com/@wanghuan2918/the-rent-of-emerald-the-rental-price-on-seattle-airbnb-b75c6f80effc)
+the results can be found at the [blog](https://www.jianshu.com/p/40f27714edd1)
 
 ***
 ## Licening, Authors, and Acknowledgements
